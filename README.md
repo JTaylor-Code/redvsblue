@@ -6,7 +6,7 @@ The following file contains blue team activity, using Wireshark to find instance
 - redvsblue/Network Analysis .pdf
 
 This file gives a complete overview on what was done during the project, complete with screenshots of commands used and actions taken:
-- redvsblue/Red_V_Blue_Report.docx-2.pdf
+- redvsblue/Red_V_Blue_Report.pdf
 
 Furthermore, the report contains mitigation techniques for the the vulnerabilities found.
 
